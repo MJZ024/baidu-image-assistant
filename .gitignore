@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+*.png
+*.gif
+test_*
+*.log
+api_test_result.json
+test_result.json

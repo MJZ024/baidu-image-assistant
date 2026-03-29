@@ -1,0 +1,8 @@
+# 百度AI平台
+baidu-aip==4.16.13
+
+# HTTP 请求
+requests==2.31.0
+
+# GUI
+# tkinter 为 Python 内置，无需安装（PyCharm 社区版自带）
